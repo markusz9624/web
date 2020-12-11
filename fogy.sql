@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Gép: 127.0.0.1
--- Létrehozás ideje: 2020. Nov 28. 18:14
+-- Létrehozás ideje: 2020. Dec 01. 17:49
 -- Kiszolgáló verziója: 10.4.11-MariaDB
 -- PHP verzió: 7.4.3
 
@@ -21,8 +21,6 @@ SET time_zone = "+00:00";
 --
 -- Adatbázis: `fogy`
 --
-CREATE DATABASE IF NOT EXISTS `fogy` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `fogy`;
 
 -- --------------------------------------------------------
 

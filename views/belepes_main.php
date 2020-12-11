@@ -1,4 +1,5 @@
-
+<!DOCTYPE html>
+<meta charset="UTF-8">
 <h2>Belépés</h2>
 <form action="<?= SITE_ROOT ?>beleptet" method = "post">
     <fieldset>
